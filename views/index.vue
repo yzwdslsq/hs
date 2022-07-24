@@ -1,16 +1,20 @@
 <template>
   <div>
     <div class="header">
-      <p class="item active" @click="jump('/home')">/home</p>
+      <p
+        class="item active"
+        @click="jump('/home')"
+      >/home</p>
     </div>
     <router-view></router-view>
   </div>
 </template>
 
 <script>
+//李永华是大sb
 export default {
   methods: {
-    jump(path) {
+    jump (path) {
       this.$hCore.navigate(path);
     }
   }
