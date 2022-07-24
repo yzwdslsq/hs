@@ -11,7 +11,7 @@
 </template>
 
 <script>
-//李永华是大sb
+//yuzhouwudishuailsq
 export default {
   methods: {
     jump (path) {
