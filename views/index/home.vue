@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <query></query> -->
-    <clear></clear>
+    <!-- <clear></clear> -->
 
   </div>
 </template>
